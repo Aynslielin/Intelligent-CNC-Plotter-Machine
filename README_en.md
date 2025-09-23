@@ -31,10 +31,14 @@ The platform supports automatic drawing and style transfer features, enabling dr
 
 ---
 ## Research Methodology
+The hardware utilizes V-slot slides and a screw-driven gantry, combined with an Arduino Uno and an A4988 + stepper motor to control the X-Y axes. A servo motor drives the pen tip upwards and downwards. The support and pen holder are 3D printed. The software, written in Python, integrates OpenCV for image processing, rembg for background removal, Potrace for vector path generation, and the Gemini API for style transfer. The system supports multiple drawing modes and can output G-code after optimizing the path. Preview, export, and machine control are all handled through a custom GUI.
 
 ---
 ## Results Showcase
 [Demonstration Video](https://youtu.be/Qn8gQQk7WbQ)  
+：
+https://youtube.com/playlist?list=PLaIR_ZBq24bLc04j9EN7dDOz_OjDmvVbR&si=acX-4c2rYGbPTH4s
+
 [Result Image File](https://github.com/Aynslielin/CNC-Plotter-Machine/tree/main/Result_Images)  
 Result Images:  
 ![](https://github.com/Aynslielin/CNC-Plotter-Machine/blob/main/Result_Images/PhotoCap_Ghibli_ShapeDraw.jpg)
