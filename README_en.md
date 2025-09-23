@@ -35,8 +35,7 @@ The hardware utilizes V-slot slides and a screw-driven gantry, combined with an 
 
 ---
 ## Results Showcase
-[Demonstration Video](https://youtu.be/Qn8gQQk7WbQ)  
-：
+[Demonstration Video](https://youtu.be/Qn8gQQk7WbQ)  ：
 https://youtube.com/playlist?list=PLaIR_ZBq24bLc04j9EN7dDOz_OjDmvVbR&si=acX-4c2rYGbPTH4s
 
 [Result Image File](https://github.com/Aynslielin/CNC-Plotter-Machine/tree/main/Result_Images)  
