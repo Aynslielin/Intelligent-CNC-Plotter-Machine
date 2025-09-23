@@ -35,6 +35,7 @@
 馬達實現筆尖升降，並以 3D 列印製作支撐架與筆架。軟體以 Python 撰寫，整合 OpenCV 進行圖像處理、
 rembg 進行背景移除、Potrace 生成向量路徑，以及 Gemini API 進行風格轉換。系統支援多種繪圖模
 式，並能優化路徑後輸出 G-code，透過自製 GUI 完成預覽、匯出與機台控制。
+
 ---
 ## 成果展示  
 [示範影片](https://youtu.be/Qn8gQQk7WbQ) 
