@@ -38,6 +38,7 @@ rembg 進行背景移除、Potrace 生成向量路徑，以及 Gemini API 進行
 ---
 ## 成果展示  
 [示範影片](https://youtu.be/Qn8gQQk7WbQ) 
+：
 https://youtube.com/playlist?list=PLaIR_ZBq24bLc04j9EN7dDOz_OjDmvVbR&si=acX-4c2rYGbPTH4s
 
 [成果照片資料夾](https://github.com/Aynslielin/CNC-Plotter-Machine/tree/main/Result_Images)  
