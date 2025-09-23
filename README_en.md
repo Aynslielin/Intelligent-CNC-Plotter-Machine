@@ -38,6 +38,8 @@ The hardware utilizes V-slot slides and a screw-driven gantry, combined with an 
 [Demonstration Video](https://youtu.be/Qn8gQQk7WbQ)  ：
 https://youtube.com/playlist?list=PLaIR_ZBq24bLc04j9EN7dDOz_OjDmvVbR&si=acX-4c2rYGbPTH4s
 
+.exe files download：https://drive.google.com/drive/folders/1rkEolvtHetP7o12V0WMiVoSxgUWzMbsR?usp=drive_link
+
 [Result Image File](https://github.com/Aynslielin/CNC-Plotter-Machine/tree/main/Result_Images)  
 Result Images:  
 ![](https://github.com/Aynslielin/CNC-Plotter-Machine/blob/main/Result_Images/PhotoCap_Ghibli_ShapeDraw.jpg)
