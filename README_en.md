@@ -9,8 +9,11 @@ This project presents the design, fabrication, and application of an intelligent
 
 ---
 ## Introduction
-The goal of this project is to design and build an intelligent CNC plotting platform that uses an Arduino development board to control stepper motors and lead screwa achieving high-precision two-dimensional motion control.  
+The goal of this project is to design and build an intelligent CNC plotting platform that uses an Arduino microcontroller to control stepper motors and servo motor ,and lead screws achieving high-precision two-dimensional motion control.  
 The platform supports automatic drawing and style transfer features, enabling drawing control and lead screw movement via G-code transmission from a computer.
+
+---
+## System Block Daigram
 
 ---
 ## Project Features
