@@ -38,7 +38,7 @@ The hardware utilizes V-slot slides and a screw-driven gantry, combined with an 
 
 ---
 ## Customed Designs & Pen Holder
-Below pictures are the custom-designed components (screw holders), which were designed by using SolidWorks. These holders can stabilize the motion of screws when stepper motors are functioning. The component files can be found in this Solidworks folder. [SolidWorks](Solidworks)
+Below pictures are the custom-designed components (screw holders), which were designed by using SolidWorks. These holders can stabilize the motion of screws when stepper motors are functioning. The component files can be found in this folder. [SolidWorks](Solidworks)
 <img src="images/X_axis_holder.jpg" width="600">
 <img src="images/XY_axes_holder.jpg" width="600">  
 Below picutures are about the pen holder design and pen-up/down logic we applied from a Thingiverse project. [Thingiverse Project](https://www.thingiverse.com/thing:2349232)  
