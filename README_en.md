@@ -46,12 +46,6 @@ Below picutures are about the pen holder design and pen-up/down logic we applied
 <img src="images/Pen_up&down.jpg" width="700">
 
 ---
-## Circuits Logic
-
----
-## Software
-
----
 ## Results Showcase
 [Demonstration Video](https://youtu.be/Qn8gQQk7WbQ)  
 
