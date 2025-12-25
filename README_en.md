@@ -42,8 +42,8 @@ Below pictures are the custom-designed components (screw holders), which were de
 <img src="images/X_axis_holder.jpg" width="600">
 <img src="images/XY_axes_holder.jpg" width="600">
 Below picutures are about the pen holder design and pen-up/down logic we applied from a Thingiverse project.
-<img src="images/Pen_Holder.jpg" width="600">
-<img src="images/Pen_up&down.jpg" width="600">
+<img src="images/Pen_Holder.jpg">
+<img src="images/Pen_up&down.jpg">
 
 ---
 ## Circuits Logic
