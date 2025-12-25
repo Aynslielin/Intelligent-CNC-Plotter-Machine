@@ -37,10 +37,18 @@ The platform supports automatic drawing and style transfer features, enabling dr
 The hardware utilizes V-slot slides and a screw-driven gantry, combined with an Arduino Uno and an A4988 + stepper motor to control the X-Y axes. A servo motor drives the pen tip upwards and downwards. The support and pen holder are 3D printed. The software, written in Python, integrates OpenCV for image processing, rembg for background removal, Potrace for vector path generation, and the Gemini API for style transfer. The system supports multiple drawing modes and can output G-code after optimizing the path. Preview, export, and machine control are all handled through a custom GUI.
 
 ---
-## Customed Designs
+## Customed Designs & Pen Holder
 Below are the custom-designed components (screw holders), which were designed by using SolidWorks. These holders can stabilize the motion of screws when stepper motors are functioning.
 <img src="images/X_axis_holder.jpg" width="600">
 <img src="images/XY_axes_holder.jpg" width="600">
+
+---
+## Circuits Logic
+
+---
+## Software
+
+---
 ## Results Showcase
 [Demonstration Video](https://youtu.be/Qn8gQQk7WbQ)  
 
