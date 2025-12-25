@@ -39,6 +39,7 @@ The hardware utilizes V-slot slides and a screw-driven gantry, combined with an 
 ---
 ## Customed Designs
 Below are the custom-designed components (screw holders), which were designed by using SolidWorks. These holders can stabilize the motion of screws when stepper motors are functioning.
+<img src="images/X_axis_holder.jpg" width="300">
 ![](images/X_axis_holder.jpg)
 ![](images/XY_axes_holder.jpg)
 ## Results Showcase
