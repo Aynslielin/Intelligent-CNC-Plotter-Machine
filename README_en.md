@@ -13,9 +13,9 @@ The goal of this project is to design and build an intelligent CNC plotting plat
 The platform supports automatic drawing and style transfer features, enabling drawing control and lead screw movement via G-code transmission from a computer.
 
 ---
-<!  ## System Block Daigram
+<!--## System Block Daigram
 
----  >
+--- -->
 ## Project Features
 - High-precision two-dimensional motion control
 - Support for G-code command input
@@ -46,14 +46,14 @@ Below picutures are about the pen holder design and pen-up/down logic we applied
 <img src="images/Pen_up&down.jpg" width="700">
 
 ---
-<!  ## Circuits Logic
+<!--## Circuits Logic
 
 ---
 ## Software
 ### G-code & GRBL
 ### Plotting Algorithms 
 
----  >
+--- -->
 ## Results Showcase
 [Demonstration Video](https://youtu.be/Qn8gQQk7WbQ)  
 
