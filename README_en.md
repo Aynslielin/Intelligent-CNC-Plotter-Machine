@@ -55,7 +55,8 @@ Below picutures are about the pen holder design and pen-up/down logic we applied
 
 --- -->
 ## Results Showcase
-[Demonstration Video](https://youtu.be/Qn8gQQk7WbQ)  
+[Demonstration Video (English version)](https://youtu.be/cs5pjETlvW4)
+[Demonstration Video (Chinese version)](https://youtu.be/Qn8gQQk7WbQ)  
 
 Video list：https://youtube.com/playlist?list=PLaIR_ZBq24bLc04j9EN7dDOz_OjDmvVbR&si=acX-4c2rYGbPTH4s
 
