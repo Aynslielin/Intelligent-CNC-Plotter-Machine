@@ -38,7 +38,8 @@ rembg 進行背景移除、Potrace 生成向量路徑，以及 Gemini API 進行
 
 ---
 ## 成果展示  
-[示範影片](https://youtu.be/Qn8gQQk7WbQ) 
+[![中文版示範影片](https://img.youtube.com/vi/Qn8gQQk7WbQ/maxresdefault.jpg)](https://youtu.be/Qn8gQQk7WbQ)   
+[![英文版示範影片](https://img.youtube.com/vi/cs5pjETlvW4/maxresdefault.jpg)](https://youtu.be/cs5pjETlvW4)   
 
 影片清單：https://youtube.com/playlist?list=PLaIR_ZBq24bLc04j9EN7dDOz_OjDmvVbR&si=acX-4c2rYGbPTH4s
 
